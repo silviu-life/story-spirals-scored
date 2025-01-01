@@ -4,13 +4,13 @@ This Python script implements a weighted scoring system for hierarchical stories
 
 ## Overview
 
-The script connects to a MongoDB database to retrieve and rank stories based on their votes and their parent stories' votes. Each story's final score is calculated by considering:
+The script processes story data from either MongoDB or a JSON file to rank stories based on their votes and their parent stories' votes. Each story's final score is calculated by considering:
 - Direct votes on the story itself
 - Votes on parent stories (with diminishing weight)
 
 ## Features
 
-- Connects to MongoDB using environment variables for configuration
+- Flexible data source: Can read from MongoDB or local JSON file
 - Calculates weighted scores for stories considering their entire parent chain
 - Upvotes count as +1, downvotes as -1
 - Parent stories' votes are weighted with a decay factor (0.9 by default)
@@ -18,30 +18,42 @@ The script connects to a MongoDB database to retrieve and rank stories based on 
 
 ## Configuration
 
-The script requires the following environment variables:
+When using MongoDB, the script requires the following environment variables:
 - `MONGO_URI`: MongoDB connection string
 - `DATABASE_NAME`: Name of the database
 - `COLLECTION_NAME`: Name of the collection containing stories
 
 ## Data Structure
 
-Expected MongoDB document structure: 
+Expected document structure for stories: 
 
 ```json
 {
-  "_id": ObjectId("..."),
-  "storyChain": "...",
+  "_id": "...",
+  "parentId": "..." | null,
   "text": "...",
-  "votes": [{"userId": "...", "voteType": "upvote" | "downvote"}]
+  "storyChain": "...",
+  "votes": [
+    {
+      "userId": "...",
+      "username": "...",
+      "voteType": "upvote" | "downvote",
+      "updateTime": "..."
+    }
+  ]
 }
 ```
 
 ## Usage
 
-To run the script, use the following command:
-
+To run the script with MongoDB:
 ```bash
 python3 story-ranking.py
+```
+
+To run with a local JSON file:
+```bash
+python3 story-ranking.py --use-file path/to/stories.json
 ```
 
 The script will output:
