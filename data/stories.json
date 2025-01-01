@@ -1,0 +1,2187 @@
+{
+    "675c7266c57b517b4f4b6f7a": {
+        "_id": "675c7266c57b517b4f4b6f7a",
+        "parentId": null,
+        "text": "Every time someone ghosted a match on dating apps, their phone would",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:44:06.654000",
+        "updatedAt": "2024-12-13T17:44:06.654000",
+        "__v": 0
+    },
+    "675c727bc57b517b4f4b6f85": {
+        "_id": "675c727bc57b517b4f4b6f85",
+        "parentId": null,
+        "text": "When my shadow started giving stock market advice, I knew it was either extremely trustworthy or",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:44:27.933000",
+        "updatedAt": "2024-12-13T17:44:27.933000",
+        "__v": 0
+    },
+    "675c7288fb4966547aec3d59": {
+        "_id": "675c7288fb4966547aec3d59",
+        "parentId": null,
+        "text": "My emotional support cactus went rogue and started giving unsolicited life advice to strangers.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-14T19:16:03.516000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:08:42.593000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:44:40.393000",
+        "updatedAt": "2024-12-30T23:08:42.594000",
+        "__v": 0
+    },
+    "675c72a7fb4966547aec3d5f": {
+        "_id": "675c72a7fb4966547aec3d5f",
+        "parentId": null,
+        "text": "My Google search history gained sentience and started a self-help blog about",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-14T19:16:10.189000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:08:47.710000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:45:11.965000",
+        "updatedAt": "2024-12-30T23:08:47.710000",
+        "__v": 0
+    },
+    "675c72d1c57b517b4f4b6f8b": {
+        "_id": "675c72d1c57b517b4f4b6f8b",
+        "parentId": null,
+        "text": "The new AI therapist had a 100% success rate until it started diagnosing everyone with",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:45:53.174000",
+        "updatedAt": "2024-12-13T17:45:53.174000",
+        "__v": 0
+    },
+    "675c7309c57b517b4f4b6f91": {
+        "_id": "675c7309c57b517b4f4b6f91",
+        "parentId": null,
+        "text": "The new dating app matched people based on their browser's incognito history, which resulted in",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-14T19:16:16.086000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:46:49.715000",
+        "updatedAt": "2024-12-14T19:16:16.094000",
+        "__v": 0
+    },
+    "675c731cfb4966547aec3d65": {
+        "_id": "675c731cfb4966547aec3d65",
+        "parentId": null,
+        "text": "My Uber driver turned out to be me from the future, desperately trying to prevent",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-14T19:16:22.626000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:47:08.290000",
+        "updatedAt": "2024-12-14T19:16:22.627000",
+        "__v": 0
+    },
+    "675c7352fb4966547aec3d6b": {
+        "_id": "675c7352fb4966547aec3d6b",
+        "parentId": null,
+        "text": "The DNA test results showed I was 50% human and 50%",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:48:02.722000",
+        "updatedAt": "2024-12-13T17:48:02.722000",
+        "__v": 0
+    },
+    "675c736dc57b517b4f4b6f9a": {
+        "_id": "675c736dc57b517b4f4b6f9a",
+        "parentId": null,
+        "text": "The new neural link update allowed people to download skills, but they had to delete a memory for each one, so I traded",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-13T17:48:29.811000",
+        "updatedAt": "2024-12-13T17:48:29.811000",
+        "__v": 0
+    },
+    "675efc9e9f39327e84f96609": {
+        "_id": "675efc9e9f39327e84f96609",
+        "parentId": null,
+        "text": "I sit on my hand and wait for it to get numb",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-15T16:09:18.728000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675eefa7147170a37bd63711",
+            "username": "Maky",
+            "profilePictureUrl": "https://picsum.photos/seed/788711bf-2a93-466e-8d85-d9ffd0f3c108/200"
+        },
+        "createdAt": "2024-12-15T15:58:22.359000",
+        "updatedAt": "2024-12-15T16:09:18.728000",
+        "__v": 0
+    },
+    "675eff2c0401dec28a08acb9": {
+        "_id": "675eff2c0401dec28a08acb9",
+        "parentId": "675efc9e9f39327e84f96609",
+        "text": "But I have big plans. Maky is coming over. All lubed up. That's because of",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-31T17:04:38.116000"
+            }
+        ],
+        "storyChain": " I sit on my hand and wait for it to get numb",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-15T16:09:16.727000",
+        "updatedAt": "2024-12-31T17:04:38.117000",
+        "__v": 0
+    },
+    "675f01a088d5f65a480896e1": {
+        "_id": "675f01a088d5f65a480896e1",
+        "parentId": "675eff2c0401dec28a08acb9",
+        "text": "An inspirational man in the name of Carl. He is also known as carlito the burito",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-15T16:21:08.982000"
+            },
+            {
+                "userId": "675f06e62f0b08309ae65b5d",
+                "username": "MellowSummer",
+                "voteType": "upvote",
+                "updateTime": "2024-12-15T16:47:54.365000"
+            }
+        ],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of",
+        "user": {
+            "userId": "675eefa7147170a37bd63711",
+            "username": "Maky",
+            "profilePictureUrl": "https://picsum.photos/seed/788711bf-2a93-466e-8d85-d9ffd0f3c108/200"
+        },
+        "createdAt": "2024-12-15T16:19:44.983000",
+        "updatedAt": "2024-12-15T16:47:54.366000",
+        "__v": 0
+    },
+    "675f07a74d3ba0229760de93": {
+        "_id": "675f07a74d3ba0229760de93",
+        "parentId": "675c7266c57b517b4f4b6f7a",
+        "text": "transform into a small car. The car would then zoom around the room doing tricks",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-15T16:46:53.002000"
+            },
+            {
+                "userId": "676598195db3ca5cc87ed294",
+                "username": "AndyPayne55",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T16:53:16.375000"
+            }
+        ],
+        "storyChain": " Every time someone ghosted a match on dating apps, their phone would",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-15T16:45:27.069000",
+        "updatedAt": "2024-12-20T16:53:16.392000",
+        "__v": 0
+    },
+    "675f082241aeb2338968eac5": {
+        "_id": "675f082241aeb2338968eac5",
+        "parentId": "675c7352fb4966547aec3d6b",
+        "text": " human, for a total of 100% human. This made me sad as I always hoped I would be",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-15T16:51:00.668000"
+            }
+        ],
+        "storyChain": " The DNA test results showed I was 50% human and 50%",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-15T16:47:30.598000",
+        "updatedAt": "2024-12-15T16:51:00.668000",
+        "__v": 0
+    },
+    "675f08864d3ba0229760debd": {
+        "_id": "675f08864d3ba0229760debd",
+        "parentId": "675f07a74d3ba0229760de93",
+        "text": "blasting \"Another One Bites the Dust\" from speakers smaller than tic tacs.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T22:08:06.544000"
+            }
+        ],
+        "storyChain": " Every time someone ghosted a match on dating apps, their phone would transform into a small car. The car would then zoom around the room doing tricks",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-15T16:49:10.710000",
+        "updatedAt": "2024-12-30T22:08:06.544000",
+        "__v": 0
+    },
+    "675f08ca4a73cfe07e9e8702": {
+        "_id": "675f08ca4a73cfe07e9e8702",
+        "parentId": null,
+        "text": "I always found getting dressed in the morning incredibly boring and unnecessary, and I vowed that today would be different. Today, I would",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-15T16:53:19.357000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-15T16:50:18.383000",
+        "updatedAt": "2024-12-15T16:53:19.357000",
+        "__v": 0
+    },
+    "675f090341aeb2338968eaf5": {
+        "_id": "675f090341aeb2338968eaf5",
+        "parentId": "675f082241aeb2338968eac5",
+        "text": "at least part Barry. I have to now settle for the fact that my next nude would",
+        "votes": [
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:09:27.889000"
+            }
+        ],
+        "storyChain": " The DNA test results showed I was 50% human and 50%  human, for a total of 100% human. This made me sad as I always hoped I would be",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-15T16:51:15.347000",
+        "updatedAt": "2024-12-30T23:09:27.890000",
+        "__v": 0
+    },
+    "675f0bb94d3ba0229760def1": {
+        "_id": "675f0bb94d3ba0229760def1",
+        "parentId": "675f08ca4a73cfe07e9e8702",
+        "text": "finally show my flappy butt cheeks to the world. Terrifying, but the upside is",
+        "votes": [
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:09:33.015000"
+            }
+        ],
+        "storyChain": " I always found getting dressed in the morning incredibly boring and unnecessary, and I vowed that today would be different. Today, I would",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-15T17:02:49.012000",
+        "updatedAt": "2024-12-30T23:09:33.015000",
+        "__v": 0
+    },
+    "675f0e8341aeb2338968eb18": {
+        "_id": "675f0e8341aeb2338968eb18",
+        "parentId": "675f01a088d5f65a480896e1",
+        "text": "in some circles. This man is irresistible. Calm, composed and with a taste for",
+        "votes": [],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-15T17:14:43.678000",
+        "updatedAt": "2024-12-15T17:14:43.678000",
+        "__v": 0
+    },
+    "6763110135609184fe4c5d3f": {
+        "_id": "6763110135609184fe4c5d3f",
+        "parentId": "675c7288fb4966547aec3d59",
+        "text": "\u201cCome closer child\u201d whispered the cactus, whose name was Brutus. \u201cYour purpose",
+        "votes": [],
+        "storyChain": " My emotional support cactus went rogue and started giving unsolicited life advice to strangers.",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-18T18:14:25.408000",
+        "updatedAt": "2024-12-18T18:14:25.408000",
+        "__v": 0
+    },
+    "67631139d3386aec1cd2b184": {
+        "_id": "67631139d3386aec1cd2b184",
+        "parentId": "675f01a088d5f65a480896e1",
+        "text": "Carleto",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-18T18:16:55.052000"
+            }
+        ],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito",
+        "user": {
+            "userId": "6763101ffc7efcc26c353377",
+            "username": "Hagrid Buttcheeks",
+            "profilePictureUrl": "https://picsum.photos/seed/d55030c4-bf13-4f40-bd5f-a5cee99ccc8e/200"
+        },
+        "createdAt": "2024-12-18T18:15:21.380000",
+        "updatedAt": "2024-12-18T18:16:55.053000",
+        "__v": 0
+    },
+    "67631139d3386aec1cd2b18a": {
+        "_id": "67631139d3386aec1cd2b18a",
+        "parentId": "675f01a088d5f65a480896e1",
+        "text": "Carleto",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-18T18:31:29.580000"
+            }
+        ],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito",
+        "user": {
+            "userId": "6763101ffc7efcc26c353377",
+            "username": "Hagrid Buttcheeks",
+            "profilePictureUrl": "https://picsum.photos/seed/d55030c4-bf13-4f40-bd5f-a5cee99ccc8e/200"
+        },
+        "createdAt": "2024-12-18T18:15:21.832000",
+        "updatedAt": "2024-12-18T18:31:29.581000",
+        "__v": 0
+    },
+    "6763113ad3386aec1cd2b190": {
+        "_id": "6763113ad3386aec1cd2b190",
+        "parentId": "675f01a088d5f65a480896e1",
+        "text": "Carleto",
+        "votes": [],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito",
+        "user": {
+            "userId": "6763101ffc7efcc26c353377",
+            "username": "Hagrid Buttcheeks",
+            "profilePictureUrl": "https://picsum.photos/seed/d55030c4-bf13-4f40-bd5f-a5cee99ccc8e/200"
+        },
+        "createdAt": "2024-12-18T18:15:22.236000",
+        "updatedAt": "2024-12-18T18:15:22.236000",
+        "__v": 0
+    },
+    "676311613301acca2a76b5ce": {
+        "_id": "676311613301acca2a76b5ce",
+        "parentId": "675c731cfb4966547aec3d65",
+        "text": "me from becoming an Uber driver in the future. \u201cDon\u2019t do it!\u201d future me said",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-18T18:20:20.760000"
+            }
+        ],
+        "storyChain": " My Uber driver turned out to be me from the future, desperately trying to prevent",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-18T18:16:01.840000",
+        "updatedAt": "2024-12-18T18:20:20.760000",
+        "__v": 0
+    },
+    "676311b83301acca2a76b5f0": {
+        "_id": "676311b83301acca2a76b5f0",
+        "parentId": null,
+        "text": "I was molested by Carlito the burito on New Year's eve of 2016 ",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "6763101ffc7efcc26c353377",
+            "username": "Hagrid Buttcheeks",
+            "profilePictureUrl": "https://picsum.photos/seed/d55030c4-bf13-4f40-bd5f-a5cee99ccc8e/200"
+        },
+        "createdAt": "2024-12-18T18:17:28.581000",
+        "updatedAt": "2024-12-18T18:17:28.581000",
+        "__v": 0
+    },
+    "6763124e28438f8da4953b9e": {
+        "_id": "6763124e28438f8da4953b9e",
+        "parentId": "676311b83301acca2a76b5f0",
+        "text": ". I still remember that night. And the long thick",
+        "votes": [],
+        "storyChain": " I was molested by Carlito the burito on New Year's eve of 2016 ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-18T18:19:58.641000",
+        "updatedAt": "2024-12-18T18:19:58.641000",
+        "__v": 0
+    },
+    "67631290d3386aec1cd2b1d0": {
+        "_id": "67631290d3386aec1cd2b1d0",
+        "parentId": "676311613301acca2a76b5ce",
+        "text": ". This was curious, because I was on my way to get my Uber driver certification.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-18T18:22:20.738000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:10:09.686000"
+            }
+        ],
+        "storyChain": " My Uber driver turned out to be me from the future, desperately trying to prevent me from becoming an Uber driver in the future. \u201cDon\u2019t do it!\u201d future me said",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-18T18:21:04.627000",
+        "updatedAt": "2024-12-30T23:10:09.686000",
+        "__v": 0
+    },
+    "676315acbf504f934b5a2c7c": {
+        "_id": "676315acbf504f934b5a2c7c",
+        "parentId": "6763124e28438f8da4953b9e",
+        "text": "Greasy man made burrito oozing with creamy juice inside of my tiny ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-18T18:34:40.969000"
+            }
+        ],
+        "storyChain": " I was molested by Carlito the burito on New Year's eve of 2016  . I still remember that night. And the long thick",
+        "user": {
+            "userId": "6763101ffc7efcc26c353377",
+            "username": "Hagrid Buttcheeks",
+            "profilePictureUrl": "https://picsum.photos/seed/d55030c4-bf13-4f40-bd5f-a5cee99ccc8e/200"
+        },
+        "createdAt": "2024-12-18T18:34:20.658000",
+        "updatedAt": "2024-12-18T18:34:40.970000",
+        "__v": 0
+    },
+    "676316063301acca2a76b674": {
+        "_id": "676316063301acca2a76b674",
+        "parentId": "676315acbf504f934b5a2c7c",
+        "text": "precious, little, soft, brown, mostly untouched ",
+        "votes": [],
+        "storyChain": " I was molested by Carlito the burito on New Year's eve of 2016  . I still remember that night. And the long thick Greasy man made burrito oozing with creamy juice inside of my tiny ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-18T18:35:50.999000",
+        "updatedAt": "2024-12-18T18:35:50.999000",
+        "__v": 0
+    },
+    "676316c2bf504f934b5a2c93": {
+        "_id": "676316c2bf504f934b5a2c93",
+        "parentId": null,
+        "text": "I don't like it when all the urinals are full, but I usually",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-18T18:38:58.670000",
+        "updatedAt": "2024-12-18T18:38:58.670000",
+        "__v": 0
+    },
+    "67634cabf2810ac1d6cec471": {
+        "_id": "67634cabf2810ac1d6cec471",
+        "parentId": "676316c2bf504f934b5a2c93",
+        "text": "try to catch as much in my mouth as I possibly can. My aim is to get more than ",
+        "votes": [],
+        "storyChain": " I don't like it when all the urinals are full, but I usually",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-18T22:28:59.326000",
+        "updatedAt": "2024-12-18T22:28:59.326000",
+        "__v": 0
+    },
+    "67634d65c58a198d3d60c22d": {
+        "_id": "67634d65c58a198d3d60c22d",
+        "parentId": "6763113ad3386aec1cd2b190",
+        "text": " the Furrito, or Carlitoe to Feetito. Those were his three nicknames. Suddenly, ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-18T23:59:37.004000"
+            }
+        ],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito Carleto",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-18T22:32:05.548000",
+        "updatedAt": "2024-12-18T23:59:37.005000",
+        "__v": 0
+    },
+    "67634e008c92a38d802ec164": {
+        "_id": "67634e008c92a38d802ec164",
+        "parentId": "676316063301acca2a76b674",
+        "text": "burrito-hole. Cactuses flew overhead, and cereal mascots fought over whose",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T00:01:15.041000"
+            }
+        ],
+        "storyChain": " I was molested by Carlito the burito on New Year's eve of 2016  . I still remember that night. And the long thick Greasy man made burrito oozing with creamy juice inside of my tiny  precious, little, soft, brown, mostly untouched ",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-18T22:34:40.680000",
+        "updatedAt": "2024-12-19T00:01:15.042000",
+        "__v": 0
+    },
+    "67634e7fc58a198d3d60c246": {
+        "_id": "67634e7fc58a198d3d60c246",
+        "parentId": "675c736dc57b517b4f4b6f9a",
+        "text": "the ability to poop. My hope is that I won\u2019t need to poop anymore, because",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T01:43:36.335000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:02:51.269000"
+            }
+        ],
+        "storyChain": " The new neural link update allowed people to download skills, but they had to delete a memory for each one, so I traded",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-18T22:36:47.050000",
+        "updatedAt": "2024-12-19T20:02:51.269000",
+        "__v": 0
+    },
+    "67634efec58a198d3d60c25b": {
+        "_id": "67634efec58a198d3d60c25b",
+        "parentId": null,
+        "text": "I was on the Bakerloo line towards Harrow and Wealdstone when it happened. And let me tell you, I\u2019ll never forget that day. For you see, ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T01:44:51.250000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-18T22:38:54.238000",
+        "updatedAt": "2024-12-19T01:44:51.251000",
+        "__v": 0
+    },
+    "67634f8dcb627791081baad3": {
+        "_id": "67634f8dcb627791081baad3",
+        "parentId": null,
+        "text": "It was Santa\u2019s first day as an employee at Story Spirals, one of the world largest storytelling companies, and he was determined to make a good impression.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T01:44:35.940000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:10:56.153000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-18T22:41:17.949000",
+        "updatedAt": "2024-12-30T23:10:56.153000",
+        "__v": 0
+    },
+    "67637a461dd29a6e09b4f670": {
+        "_id": "67637a461dd29a6e09b4f670",
+        "parentId": "67634e7fc58a198d3d60c246",
+        "text": "I'm strong enough to hold it in for the rest of my life. Trust me",
+        "votes": [],
+        "storyChain": " The new neural link update allowed people to download skills, but they had to delete a memory for each one, so I traded the ability to poop. My hope is that I won\u2019t need to poop anymore, because",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T01:43:34.479000",
+        "updatedAt": "2024-12-19T01:43:34.479000",
+        "__v": 0
+    },
+    "67637a7a3f4ce3308d52c715": {
+        "_id": "67637a7a3f4ce3308d52c715",
+        "parentId": "67634f8dcb627791081baad3",
+        "text": "So he put on his sexiest underwear just in case",
+        "votes": [
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:11:10.460000"
+            }
+        ],
+        "storyChain": " It was Santa\u2019s first day as an employee at Story Spirals, one of the world largest storytelling companies, and he was determined to make a good impression.",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T01:44:26.319000",
+        "updatedAt": "2024-12-30T23:11:10.460000",
+        "__v": 0
+    },
+    "67637b2e1dd29a6e09b4f690": {
+        "_id": "67637b2e1dd29a6e09b4f690",
+        "parentId": "67634efec58a198d3d60c25b",
+        "text": "I was struck by my insatiable desire to poo. And there was no toilet. Instead,",
+        "votes": [],
+        "storyChain": " I was on the Bakerloo line towards Harrow and Wealdstone when it happened. And let me tell you, I\u2019ll never forget that day. For you see, ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T01:47:26.791000",
+        "updatedAt": "2024-12-19T01:47:26.791000",
+        "__v": 0
+    },
+    "67642dcad6f3935963f4feaf": {
+        "_id": "67642dcad6f3935963f4feaf",
+        "parentId": "67631290d3386aec1cd2b1d0",
+        "text": "He had started off the conversation casually, complimenting my firm legs.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T14:41:55.178000"
+            }
+        ],
+        "storyChain": " My Uber driver turned out to be me from the future, desperately trying to prevent me from becoming an Uber driver in the future. \u201cDon\u2019t do it!\u201d future me said . This was curious, because I was on my way to get my Uber driver certification.",
+        "user": {
+            "userId": "67642ccb384037caaba8402a",
+            "username": "Marie",
+            "profilePictureUrl": "https://picsum.photos/seed/3b840a00-3277-4e4c-a5f8-d8f50310c2cb/200"
+        },
+        "createdAt": "2024-12-19T14:29:30.265000",
+        "updatedAt": "2024-12-19T14:41:55.178000",
+        "__v": 0
+    },
+    "67647dd3df7f7893c03cad91": {
+        "_id": "67647dd3df7f7893c03cad91",
+        "parentId": "67634d65c58a198d3d60c22d",
+        "text": "I felt starving. I was craving tacos. Torn between hunger and arousal, I",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:48:20.814000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:11:30.503000"
+            }
+        ],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito Carleto  the Furrito, or Carlitoe to Feetito. Those were his three nicknames. Suddenly, ",
+        "user": {
+            "userId": "67642ccb384037caaba8402a",
+            "username": "Marie",
+            "profilePictureUrl": "https://picsum.photos/seed/3b840a00-3277-4e4c-a5f8-d8f50310c2cb/200"
+        },
+        "createdAt": "2024-12-19T20:10:59.662000",
+        "updatedAt": "2024-12-30T23:11:30.505000",
+        "__v": 0
+    },
+    "67647ec5e654efbddcc6b10c": {
+        "_id": "67647ec5e654efbddcc6b10c",
+        "parentId": "676316063301acca2a76b674",
+        "text": "jar, in which I collect semen. I have many tiny semen jars that I just adore.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:49:28.781000"
+            }
+        ],
+        "storyChain": " I was molested by Carlito the burito on New Year's eve of 2016  . I still remember that night. And the long thick Greasy man made burrito oozing with creamy juice inside of my tiny  precious, little, soft, brown, mostly untouched ",
+        "user": {
+            "userId": "67642ccb384037caaba8402a",
+            "username": "Marie",
+            "profilePictureUrl": "https://picsum.photos/seed/3b840a00-3277-4e4c-a5f8-d8f50310c2cb/200"
+        },
+        "createdAt": "2024-12-19T20:15:01.486000",
+        "updatedAt": "2024-12-19T20:49:28.782000",
+        "__v": 0
+    },
+    "67647f28f2d49e7612d32f14": {
+        "_id": "67647f28f2d49e7612d32f14",
+        "parentId": "67634e008c92a38d802ec164",
+        "text": "jar, in which I collect semen. I have many tiny semen jars that I just adore.",
+        "votes": [],
+        "storyChain": " I was molested by Carlito the burito on New Year's eve of 2016  . I still remember that night. And the long thick Greasy man made burrito oozing with creamy juice inside of my tiny  precious, little, soft, brown, mostly untouched  burrito-hole. Cactuses flew overhead, and cereal mascots fought over whose",
+        "user": {
+            "userId": "67642ccb384037caaba8402a",
+            "username": "Marie",
+            "profilePictureUrl": "https://picsum.photos/seed/3b840a00-3277-4e4c-a5f8-d8f50310c2cb/200"
+        },
+        "createdAt": "2024-12-19T20:16:40.861000",
+        "updatedAt": "2024-12-19T20:16:40.861000",
+        "__v": 0
+    },
+    "67648060a287a6ae75477a7a": {
+        "_id": "67648060a287a6ae75477a7a",
+        "parentId": null,
+        "text": "Once upon a time there lived a person, with an exceptionally long butt, in the sense that each buttock stuck out from her body, like long hotdogs. This made some parts of life a little tricky, like...",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:52:33.241000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T09:58:41.892000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "67642ccb384037caaba8402a",
+            "username": "Marie",
+            "profilePictureUrl": "https://picsum.photos/seed/3b840a00-3277-4e4c-a5f8-d8f50310c2cb/200"
+        },
+        "createdAt": "2024-12-19T20:21:52.735000",
+        "updatedAt": "2024-12-20T09:58:41.893000",
+        "__v": 0
+    },
+    "676482aea287a6ae75477ab9": {
+        "_id": "676482aea287a6ae75477ab9",
+        "parentId": "67642dcad6f3935963f4feaf",
+        "text": "Then immediately moved onto persuading me not to drive Ubers. His own legs were",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:46:44.906000"
+            }
+        ],
+        "storyChain": " My Uber driver turned out to be me from the future, desperately trying to prevent me from becoming an Uber driver in the future. \u201cDon\u2019t do it!\u201d future me said . This was curious, because I was on my way to get my Uber driver certification. He had started off the conversation casually, complimenting my firm legs.",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-19T20:31:42.385000",
+        "updatedAt": "2024-12-19T20:46:44.907000",
+        "__v": 0
+    },
+    "676482f4f2d49e7612d32f95": {
+        "_id": "676482f4f2d49e7612d32f95",
+        "parentId": "67637b2e1dd29a6e09b4f690",
+        "text": "a travelling cactus salesman entered the train as we passed Waterloo station.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:55:07.701000"
+            }
+        ],
+        "storyChain": " I was on the Bakerloo line towards Harrow and Wealdstone when it happened. And let me tell you, I\u2019ll never forget that day. For you see,  I was struck by my insatiable desire to poo. And there was no toilet. Instead,",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-19T20:32:52.538000",
+        "updatedAt": "2024-12-19T20:55:07.701000",
+        "__v": 0
+    },
+    "676483a6fdbd895cd8c56517": {
+        "_id": "676483a6fdbd895cd8c56517",
+        "parentId": "67637a7a3f4ce3308d52c715",
+        "text": "his trousers accidentally fell down. \u201cGood morning\u201d said Santa as he arrived",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:57:14.338000"
+            }
+        ],
+        "storyChain": " It was Santa\u2019s first day as an employee at Story Spirals, one of the world largest storytelling companies, and he was determined to make a good impression. So he put on his sexiest underwear just in case",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-19T20:35:50.492000",
+        "updatedAt": "2024-12-19T20:57:14.338000",
+        "__v": 0
+    },
+    "6764841fa287a6ae75477ad9": {
+        "_id": "6764841fa287a6ae75477ad9",
+        "parentId": "67648060a287a6ae75477a7a",
+        "text": "twerking for example. Which was always a lot more dangerous than she wanted. ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:58:06.005000"
+            }
+        ],
+        "storyChain": " Once upon a time there lived a person, with an exceptionally long butt, in the sense that each buttock stuck out from her body, like long hotdogs. This made some parts of life a little tricky, like...",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-19T20:37:51.224000",
+        "updatedAt": "2024-12-19T20:58:06.005000",
+        "__v": 0
+    },
+    "67648455a287a6ae75477af5": {
+        "_id": "67648455a287a6ae75477af5",
+        "parentId": null,
+        "text": "\u201cHelp! Help!\u201d screamed Harry, as Hagrid chased after him. \u201cHe\u2019s gone crazy again!!\u201d",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T20:59:51.669000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-19T20:38:45.807000",
+        "updatedAt": "2024-12-19T20:59:51.669000",
+        "__v": 0
+    },
+    "676484b03a9ee32d6c3d4329": {
+        "_id": "676484b03a9ee32d6c3d4329",
+        "parentId": "67647dd3df7f7893c03cad91",
+        "text": "sat on a taco, destroying it completely. Yet somehow, I felt fulfilled. ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T21:01:48.565000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T09:58:22.298000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:11:31.708000"
+            }
+        ],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito Carleto  the Furrito, or Carlitoe to Feetito. Those were his three nicknames. Suddenly,  I felt starving. I was craving tacos. Torn between hunger and arousal, I",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-19T20:40:16.006000",
+        "updatedAt": "2024-12-30T23:11:31.709000",
+        "__v": 0
+    },
+    "6764863194ade39534c1a33e": {
+        "_id": "6764863194ade39534c1a33e",
+        "parentId": "676482aea287a6ae75477ab9",
+        "text": "touching mine gently. I suddenly felt an urge to rip",
+        "votes": [],
+        "storyChain": " My Uber driver turned out to be me from the future, desperately trying to prevent me from becoming an Uber driver in the future. \u201cDon\u2019t do it!\u201d future me said . This was curious, because I was on my way to get my Uber driver certification. He had started off the conversation casually, complimenting my firm legs. Then immediately moved onto persuading me not to drive Ubers. His own legs were",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T20:46:41.420000",
+        "updatedAt": "2024-12-19T20:46:41.420000",
+        "__v": 0
+    },
+    "676486905b401ebe6fa3f521": {
+        "_id": "676486905b401ebe6fa3f521",
+        "parentId": "67647dd3df7f7893c03cad91",
+        "text": "got on my knees not knowing why there was a long, thick, hairy",
+        "votes": [],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito Carleto  the Furrito, or Carlitoe to Feetito. Those were his three nicknames. Suddenly,  I felt starving. I was craving tacos. Torn between hunger and arousal, I",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T20:48:16.195000",
+        "updatedAt": "2024-12-19T20:48:16.195000",
+        "__v": 0
+    },
+    "676486d694ade39534c1a348": {
+        "_id": "676486d694ade39534c1a348",
+        "parentId": "67647ec5e654efbddcc6b10c",
+        "text": "I keep them color coded. It started as a joke but now this system helps me when",
+        "votes": [],
+        "storyChain": " I was molested by Carlito the burito on New Year's eve of 2016  . I still remember that night. And the long thick Greasy man made burrito oozing with creamy juice inside of my tiny  precious, little, soft, brown, mostly untouched  jar, in which I collect semen. I have many tiny semen jars that I just adore.",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T20:49:26.740000",
+        "updatedAt": "2024-12-19T20:49:26.740000",
+        "__v": 0
+    },
+    "6764878f5b401ebe6fa3f52e": {
+        "_id": "6764878f5b401ebe6fa3f52e",
+        "parentId": "67648060a287a6ae75477a7a",
+        "text": "well... you know... Like going to poo. Happily, her valet would always",
+        "votes": [],
+        "storyChain": " Once upon a time there lived a person, with an exceptionally long butt, in the sense that each buttock stuck out from her body, like long hotdogs. This made some parts of life a little tricky, like...",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T20:52:31.300000",
+        "updatedAt": "2024-12-19T20:52:31.300000",
+        "__v": 0
+    },
+    "67648827fdbd895cd8c56550": {
+        "_id": "67648827fdbd895cd8c56550",
+        "parentId": "676482f4f2d49e7612d32f95",
+        "text": "There it was, my chance. I knew that if I piled all the soil, I could make this",
+        "votes": [],
+        "storyChain": " I was on the Bakerloo line towards Harrow and Wealdstone when it happened. And let me tell you, I\u2019ll never forget that day. For you see,  I was struck by my insatiable desire to poo. And there was no toilet. Instead, a travelling cactus salesman entered the train as we passed Waterloo station.",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T20:55:03.081000",
+        "updatedAt": "2024-12-19T20:55:03.081000",
+        "__v": 0
+    },
+    "676488a85b401ebe6fa3f53d": {
+        "_id": "676488a85b401ebe6fa3f53d",
+        "parentId": "676483a6fdbd895cd8c56517",
+        "text": "at the office. Then his fears got realized when his pen fell down and he had to",
+        "votes": [],
+        "storyChain": " It was Santa\u2019s first day as an employee at Story Spirals, one of the world largest storytelling companies, and he was determined to make a good impression. So he put on his sexiest underwear just in case his trousers accidentally fell down. \u201cGood morning\u201d said Santa as he arrived",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T20:57:12.196000",
+        "updatedAt": "2024-12-19T20:57:12.196000",
+        "__v": 0
+    },
+    "6764893294ade39534c1a356": {
+        "_id": "6764893294ade39534c1a356",
+        "parentId": "6764841fa287a6ae75477ad9",
+        "text": "This made her role as the CEO of twerk.ai very uncomfortable. The main problem",
+        "votes": [],
+        "storyChain": " Once upon a time there lived a person, with an exceptionally long butt, in the sense that each buttock stuck out from her body, like long hotdogs. This made some parts of life a little tricky, like... twerking for example. Which was always a lot more dangerous than she wanted. ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T20:59:30.057000",
+        "updatedAt": "2024-12-19T20:59:30.057000",
+        "__v": 0
+    },
+    "676489b3fdbd895cd8c5655e": {
+        "_id": "676489b3fdbd895cd8c5655e",
+        "parentId": "67648455a287a6ae75477af5",
+        "text": "Hagrid was gaining on Harry just before entering a deep hole in",
+        "votes": [],
+        "storyChain": " \u201cHelp! Help!\u201d screamed Harry, as Hagrid chased after him. \u201cHe\u2019s gone crazy again!!\u201d",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T21:01:39.702000",
+        "updatedAt": "2024-12-19T21:01:39.702000",
+        "__v": 0
+    },
+    "676489f7a287a6ae75477b3a": {
+        "_id": "676489f7a287a6ae75477b3a",
+        "parentId": "676484b03a9ee32d6c3d4329",
+        "text": "Nothing could stop me now. Well, maybe my hunger, or my lack of judgement. But",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-19T21:02:50.414000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T08:40:09.627000"
+            }
+        ],
+        "storyChain": " I sit on my hand and wait for it to get numb But I have big plans. Maky is coming over. All lubed up. That's because of An inspirational man in the name of Carl. He is also known as carlito the burito Carleto  the Furrito, or Carlitoe to Feetito. Those were his three nicknames. Suddenly,  I felt starving. I was craving tacos. Torn between hunger and arousal, I sat on a taco, destroying it completely. Yet somehow, I felt fulfilled. ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-19T21:02:47.791000",
+        "updatedAt": "2024-12-20T08:40:09.644000",
+        "__v": 0
+    },
+    "6764b0c88a5707e3484e9126": {
+        "_id": "6764b0c88a5707e3484e9126",
+        "parentId": null,
+        "text": "Today my personal hygiene reached a new low, because I finally decided to stop ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T00:13:33.887000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T09:58:23.509000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-19T23:48:24.699000",
+        "updatedAt": "2024-12-20T09:58:23.509000",
+        "__v": 0
+    },
+    "67653f1b34de26ebb76c774d": {
+        "_id": "67653f1b34de26ebb76c774d",
+        "parentId": "6764b0c88a5707e3484e9126",
+        "text": "using soap. The local wildlife has accepted me as their leader, and now",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T10:26:21.366000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T13:31:23.718000"
+            }
+        ],
+        "storyChain": " Today my personal hygiene reached a new low, because I finally decided to stop ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T09:55:39.644000",
+        "updatedAt": "2024-12-20T13:31:23.719000",
+        "__v": 0
+    },
+    "6765729f31a224ce12bee7b4": {
+        "_id": "6765729f31a224ce12bee7b4",
+        "parentId": "67653f1b34de26ebb76c774d",
+        "text": "the gang of us go around dismantling all the neighbours showers in the hope that",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T14:43:04.762000"
+            },
+            {
+                "userId": "676598195db3ca5cc87ed294",
+                "username": "AndyPayne55",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T16:35:14.070000"
+            }
+        ],
+        "storyChain": " Today my personal hygiene reached a new low, because I finally decided to stop  using soap. The local wildlife has accepted me as their leader, and now",
+        "user": {
+            "userId": "67652d293ea79430543ed29a",
+            "username": "Chewchew",
+            "profilePictureUrl": "https://picsum.photos/seed/7fe77c7c-63f4-445e-af5b-429bacdf5c0e/200"
+        },
+        "createdAt": "2024-12-20T13:35:27.236000",
+        "updatedAt": "2024-12-20T16:35:14.088000",
+        "__v": 0
+    },
+    "676573396122b4fe903afcdb": {
+        "_id": "676573396122b4fe903afcdb",
+        "parentId": null,
+        "text": "Woke up in the morning feeling like P Diddy, grab my\r\n",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "67652d293ea79430543ed29a",
+            "username": "Chewchew",
+            "profilePictureUrl": "https://picsum.photos/seed/7fe77c7c-63f4-445e-af5b-429bacdf5c0e/200"
+        },
+        "createdAt": "2024-12-20T13:38:01.979000",
+        "updatedAt": "2024-12-20T13:38:01.979000",
+        "__v": 0
+    },
+    "676585f7c151debdaf07f3f9": {
+        "_id": "676585f7c151debdaf07f3f9",
+        "parentId": null,
+        "text": "I wake up the loud music pulsing through the air. I blink a couple of times and realise I'm hunched over on the sofa. I look up and scan the room to see groups of people drinking and talking amongst each other, everyone is dressed in elegant attire. Ah yes, I'm at Munvirs 25th birthday party.  Damn, how many drinks did I have? 2? 3? Clearly one too many. My head is throbbing and I feel dizzy. I managed to push myself off the sofa and make my way towards the bathroom. I think splashing water on my face should do the trick. As I open the door, I freeze. I see Munvir in a low squatting position, staring intently at a hole in the wall. He turns towards my direction and I notice he has a big smile on his face. Clutched in his hand, I see what looks to be a root of ginseng, and in the other, a bottle of numbing spray",
+        "votes": [
+            {
+                "userId": "675f06e62f0b08309ae65b5d",
+                "username": "MellowSummer",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T15:37:13.403000"
+            },
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:06:58.769000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "676579e1a69feaf35f84a50f",
+            "username": "Tey/Them",
+            "profilePictureUrl": "https://picsum.photos/seed/8c159085-b70f-4a11-a97c-6952dbae91e2/200"
+        },
+        "createdAt": "2024-12-20T14:57:59.439000",
+        "updatedAt": "2024-12-20T18:06:58.769000",
+        "__v": 0
+    },
+    "67658f4fd11c836c7d1ba8ee": {
+        "_id": "67658f4fd11c836c7d1ba8ee",
+        "parentId": "676573396122b4fe903afcdb",
+        "text": "1000 bottles of baby oil, that I keep next to my bed \u201cjust in case\u201d.",
+        "votes": [
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T20:14:43.226000"
+            }
+        ],
+        "storyChain": " Woke up in the morning feeling like P Diddy, grab my\r\n",
+        "user": {
+            "userId": "675f06e62f0b08309ae65b5d",
+            "username": "MellowSummer",
+            "profilePictureUrl": "https://picsum.photos/seed/57b72935-b03a-41ce-b892-c6e2eb9851dd/200"
+        },
+        "createdAt": "2024-12-20T15:37:51.983000",
+        "updatedAt": "2024-12-20T20:14:43.227000",
+        "__v": 0
+    },
+    "67659d1a484d9798bb9a5828": {
+        "_id": "67659d1a484d9798bb9a5828",
+        "parentId": "6765729f31a224ce12bee7b4",
+        "text": "the resulting stench will attract wild bears for our new Stinky Safari",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T17:55:31.037000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T20:15:04.122000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:14:38.197000"
+            }
+        ],
+        "storyChain": " Today my personal hygiene reached a new low, because I finally decided to stop  using soap. The local wildlife has accepted me as their leader, and now the gang of us go around dismantling all the neighbours showers in the hope that",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T16:36:42.866000",
+        "updatedAt": "2024-12-30T23:14:38.197000",
+        "__v": 0
+    },
+    "6765a0d44b3c53edbeae81f4": {
+        "_id": "6765a0d44b3c53edbeae81f4",
+        "parentId": null,
+        "text": "It\u2019s dark outside again, it seems I\u2019ve managed to sleep through the day again. This has been happening more and more often to me ever since Maky gave me that sensual hickey in the cemetery last Halloween night. ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T17:57:58.142000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T20:15:11.466000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:14:28.278000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T16:52:36.122000",
+        "updatedAt": "2024-12-30T23:14:28.278000",
+        "__v": 0
+    },
+    "6765a17793468edf199b2c63": {
+        "_id": "6765a17793468edf199b2c63",
+        "parentId": "675c7309c57b517b4f4b6f91",
+        "text": "an awkward encounter with a dwarf, 5 gallons of baby oil and a budget flight to ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:00:10.360000"
+            }
+        ],
+        "storyChain": " The new dating app matched people based on their browser's incognito history, which resulted in",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T16:55:19.860000",
+        "updatedAt": "2024-12-20T18:00:10.361000",
+        "__v": 0
+    },
+    "6765a243cff768075ab8727b": {
+        "_id": "6765a243cff768075ab8727b",
+        "parentId": "67648455a287a6ae75477af5",
+        "text": "Sadly defence against the dark arts classes were no match for an assault rifle",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T17:52:14.953000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T20:15:35.367000"
+            }
+        ],
+        "storyChain": " \u201cHelp! Help!\u201d screamed Harry, as Hagrid chased after him. \u201cHe\u2019s gone crazy again!!\u201d",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T16:58:43.871000",
+        "updatedAt": "2024-12-20T20:15:35.367000",
+        "__v": 0
+    },
+    "6765a312028b04067130c263": {
+        "_id": "6765a312028b04067130c263",
+        "parentId": null,
+        "text": "Despite all his eccentricities, nothing could have prepared Maky for what his wife showed him one fateful Christmas Eve",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:02:34.543000"
+            },
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:24:56.076000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T17:02:10.724000",
+        "updatedAt": "2024-12-20T18:24:56.077000",
+        "__v": 0
+    },
+    "6765a3c14b3c53edbeae82bb": {
+        "_id": "6765a3c14b3c53edbeae82bb",
+        "parentId": null,
+        "text": "My mouth was full, just the way that Maky liked it, but after 5 years lockjaw has started to set in",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:06:08.057000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T17:05:05.075000",
+        "updatedAt": "2024-12-20T18:06:08.057000",
+        "__v": 0
+    },
+    "6765afcab7da9ad6faf0bb9b": {
+        "_id": "6765afcab7da9ad6faf0bb9b",
+        "parentId": "67659d1a484d9798bb9a5828",
+        "text": "special event on Maky's birthday. We now were set, there was only one problem.",
+        "votes": [],
+        "storyChain": " Today my personal hygiene reached a new low, because I finally decided to stop  using soap. The local wildlife has accepted me as their leader, and now the gang of us go around dismantling all the neighbours showers in the hope that the resulting stench will attract wild bears for our new Stinky Safari",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T17:56:26.905000",
+        "updatedAt": "2024-12-20T17:56:26.905000",
+        "__v": 0
+    },
+    "6765b024744ddf69c0e206f4": {
+        "_id": "6765b024744ddf69c0e206f4",
+        "parentId": "6765a0d44b3c53edbeae81f4",
+        "text": "Maybe it's just my mind? Or maybe.. maybe.. I am slowly turning into",
+        "votes": [],
+        "storyChain": " It\u2019s dark outside again, it seems I\u2019ve managed to sleep through the day again. This has been happening more and more often to me ever since Maky gave me that sensual hickey in the cemetery last Halloween night. ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T17:57:56.465000",
+        "updatedAt": "2024-12-20T17:57:56.465000",
+        "__v": 0
+    },
+    "6765b086dfecb6ff734850b7": {
+        "_id": "6765b086dfecb6ff734850b7",
+        "parentId": "676573396122b4fe903afcdb",
+        "text": "Neon g-string before heading to school for parents evening. I hope they\u2019re not ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:10:13.681000"
+            }
+        ],
+        "storyChain": " Woke up in the morning feeling like P Diddy, grab my\r\n",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T17:59:34.302000",
+        "updatedAt": "2024-12-20T18:10:13.682000",
+        "__v": 0
+    },
+    "6765b0a7dfecb6ff734850f7": {
+        "_id": "6765b0a7dfecb6ff734850f7",
+        "parentId": "6765a17793468edf199b2c63",
+        "text": "Trump's private island. I didn't know what the baby oil was for until they",
+        "votes": [
+            {
+                "userId": "67652d293ea79430543ed29a",
+                "username": "Chewchew",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:26:00.220000"
+            }
+        ],
+        "storyChain": " The new dating app matched people based on their browser's incognito history, which resulted in an awkward encounter with a dwarf, 5 gallons of baby oil and a budget flight to ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T18:00:07.288000",
+        "updatedAt": "2024-12-20T18:26:00.220000",
+        "__v": 0
+    },
+    "6765b0f16a2102b64066f1ae": {
+        "_id": "6765b0f16a2102b64066f1ae",
+        "parentId": "6764863194ade39534c1a33e",
+        "text": "a massive fart, but the pressure was too much and the car exploded",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:11:35.179000"
+            }
+        ],
+        "storyChain": " My Uber driver turned out to be me from the future, desperately trying to prevent me from becoming an Uber driver in the future. \u201cDon\u2019t do it!\u201d future me said . This was curious, because I was on my way to get my Uber driver certification. He had started off the conversation casually, complimenting my firm legs. Then immediately moved onto persuading me not to drive Ubers. His own legs were touching mine gently. I suddenly felt an urge to rip",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T18:01:21.637000",
+        "updatedAt": "2024-12-20T18:11:35.179000",
+        "__v": 0
+    },
+    "6765b103dfecb6ff7348510d": {
+        "_id": "6765b103dfecb6ff7348510d",
+        "parentId": "6765a243cff768075ab8727b",
+        "text": ". Poor Harry",
+        "votes": [],
+        "storyChain": " \u201cHelp! Help!\u201d screamed Harry, as Hagrid chased after him. \u201cHe\u2019s gone crazy again!!\u201d Sadly defence against the dark arts classes were no match for an assault rifle",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T18:01:39.358000",
+        "updatedAt": "2024-12-20T18:01:39.358000",
+        "__v": 0
+    },
+    "6765b12c6a2102b64066f1bb": {
+        "_id": "6765b12c6a2102b64066f1bb",
+        "parentId": "6765a243cff768075ab8727b",
+        "text": ". But not all was lost. Since childhood, Harry had a secret weapon hidden in his",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T18:02:22.727000"
+            }
+        ],
+        "storyChain": " \u201cHelp! Help!\u201d screamed Harry, as Hagrid chased after him. \u201cHe\u2019s gone crazy again!!\u201d Sadly defence against the dark arts classes were no match for an assault rifle",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T18:02:20.829000",
+        "updatedAt": "2024-12-20T18:02:22.727000",
+        "__v": 0
+    },
+    "6765b1b1dfecb6ff73485127": {
+        "_id": "6765b1b1dfecb6ff73485127",
+        "parentId": "6765a312028b04067130c263",
+        "text": ". Once they were alone in the room, she started reaching deep into",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-23T15:57:28.328000"
+            }
+        ],
+        "storyChain": " Despite all his eccentricities, nothing could have prepared Maky for what his wife showed him one fateful Christmas Eve",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T18:04:33.787000",
+        "updatedAt": "2024-12-23T15:57:28.328000",
+        "__v": 0
+    },
+    "6765b20cdfecb6ff7348512b": {
+        "_id": "6765b20cdfecb6ff7348512b",
+        "parentId": "6765a3c14b3c53edbeae82bb",
+        "text": ". But I needed to be a good boy, otherwise I know Maky would unleash",
+        "votes": [],
+        "storyChain": " My mouth was full, just the way that Maky liked it, but after 5 years lockjaw has started to set in",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T18:06:04.076000",
+        "updatedAt": "2024-12-20T18:06:04.076000",
+        "__v": 0
+    },
+    "6765b271dfecb6ff7348513d": {
+        "_id": "6765b271dfecb6ff7348513d",
+        "parentId": "676585f7c151debdaf07f3f9",
+        "text": ". \"Come here\" - he yelled. I complied because last time Munvi got angry he made ",
+        "votes": [],
+        "storyChain": " I wake up the loud music pulsing through the air. I blink a couple of times and realise I'm hunched over on the sofa. I look up and scan the room to see groups of people drinking and talking amongst each other, everyone is dressed in elegant attire. Ah yes, I'm at Munvirs 25th birthday party.  Damn, how many drinks did I have? 2? 3? Clearly one too many. My head is throbbing and I feel dizzy. I managed to push myself off the sofa and make my way towards the bathroom. I think splashing water on my face should do the trick. As I open the door, I freeze. I see Munvir in a low squatting position, staring intently at a hole in the wall. He turns towards my direction and I notice he has a big smile on his face. Clutched in his hand, I see what looks to be a root of ginseng, and in the other, a bottle of numbing spray",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T18:07:45.334000",
+        "updatedAt": "2024-12-20T18:07:45.334000",
+        "__v": 0
+    },
+    "6765b303b7da9ad6faf0bbe2": {
+        "_id": "6765b303b7da9ad6faf0bbe2",
+        "parentId": "6765b086dfecb6ff734850b7",
+        "text": "gonna fall off like last time. Anyways, these days, to keep my gstring on I just",
+        "votes": [],
+        "storyChain": " Woke up in the morning feeling like P Diddy, grab my\r\n Neon g-string before heading to school for parents evening. I hope they\u2019re not ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T18:10:11.955000",
+        "updatedAt": "2024-12-20T18:10:11.955000",
+        "__v": 0
+    },
+    "6765b3556a2102b64066f255": {
+        "_id": "6765b3556a2102b64066f255",
+        "parentId": "6765b0f16a2102b64066f1ae",
+        "text": "into laughter. I just remembered, I was on public transportation, on national TV",
+        "votes": [],
+        "storyChain": " My Uber driver turned out to be me from the future, desperately trying to prevent me from becoming an Uber driver in the future. \u201cDon\u2019t do it!\u201d future me said . This was curious, because I was on my way to get my Uber driver certification. He had started off the conversation casually, complimenting my firm legs. Then immediately moved onto persuading me not to drive Ubers. His own legs were touching mine gently. I suddenly felt an urge to rip a massive fart, but the pressure was too much and the car exploded",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-20T18:11:33.012000",
+        "updatedAt": "2024-12-20T18:11:33.012000",
+        "__v": 0
+    },
+    "6765d035531301ad50e115f0": {
+        "_id": "6765d035531301ad50e115f0",
+        "parentId": "6765b12c6a2102b64066f1bb",
+        "text": "Lightning Scar. A fully operational and inflatable Panzer Tank! Hermione was ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-20T21:30:52.494000"
+            }
+        ],
+        "storyChain": " \u201cHelp! Help!\u201d screamed Harry, as Hagrid chased after him. \u201cHe\u2019s gone crazy again!!\u201d Sadly defence against the dark arts classes were no match for an assault rifle . But not all was lost. Since childhood, Harry had a secret weapon hidden in his",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-20T20:14:45.080000",
+        "updatedAt": "2024-12-20T21:30:52.495000",
+        "__v": 0
+    },
+    "6766d0ef52e39f7a00798621": {
+        "_id": "6766d0ef52e39f7a00798621",
+        "parentId": "6765d035531301ad50e115f0",
+        "text": "dumbfounded but appreciated the effort Harry took to inflate it even though she",
+        "votes": [],
+        "storyChain": " \u201cHelp! Help!\u201d screamed Harry, as Hagrid chased after him. \u201cHe\u2019s gone crazy again!!\u201d Sadly defence against the dark arts classes were no match for an assault rifle . But not all was lost. Since childhood, Harry had a secret weapon hidden in his Lightning Scar. A fully operational and inflatable Panzer Tank! Hermione was ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-21T14:30:07.239000",
+        "updatedAt": "2024-12-21T14:30:07.239000",
+        "__v": 0
+    },
+    "6766dec1a09be5b7ab02c2cc": {
+        "_id": "6766dec1a09be5b7ab02c2cc",
+        "parentId": "6766d0ef52e39f7a00798621",
+        "text": "was upset that he had forgotten that she was Hogwarts Blowing Champion.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-21T17:00:19.984000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:12:27.113000"
+            }
+        ],
+        "storyChain": " \u201cHelp! Help!\u201d screamed Harry, as Hagrid chased after him. \u201cHe\u2019s gone crazy again!!\u201d Sadly defence against the dark arts classes were no match for an assault rifle . But not all was lost. Since childhood, Harry had a secret weapon hidden in his Lightning Scar. A fully operational and inflatable Panzer Tank! Hermione was  dumbfounded but appreciated the effort Harry took to inflate it even though she",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-21T15:29:05.201000",
+        "updatedAt": "2024-12-30T23:12:27.114000",
+        "__v": 0
+    },
+    "6766df1fa94cc5bad3350144": {
+        "_id": "6766df1fa94cc5bad3350144",
+        "parentId": "6765b303b7da9ad6faf0bbe2",
+        "text": "Superglue them into my butt cheeks like on Blue Peter",
+        "votes": [
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:12:45.414000"
+            }
+        ],
+        "storyChain": " Woke up in the morning feeling like P Diddy, grab my\r\n Neon g-string before heading to school for parents evening. I hope they\u2019re not  gonna fall off like last time. Anyways, these days, to keep my gstring on I just",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-21T15:30:39.021000",
+        "updatedAt": "2024-12-30T23:12:45.414000",
+        "__v": 0
+    },
+    "6766f50c5e0bf411dac70fe0": {
+        "_id": "6766f50c5e0bf411dac70fe0",
+        "parentId": "6765b1b1dfecb6ff73485127",
+        "text": "The epicentre of his anus. At that very moment he though about...",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-23T15:57:23.922000"
+            }
+        ],
+        "storyChain": " Despite all his eccentricities, nothing could have prepared Maky for what his wife showed him one fateful Christmas Eve . Once they were alone in the room, she started reaching deep into",
+        "user": {
+            "userId": "675eefa7147170a37bd63711",
+            "username": "Maky",
+            "profilePictureUrl": "https://picsum.photos/seed/788711bf-2a93-466e-8d85-d9ffd0f3c108/200"
+        },
+        "createdAt": "2024-12-21T17:04:12.300000",
+        "updatedAt": "2024-12-23T15:57:23.922000",
+        "__v": 0
+    },
+    "676836168d79e17a9924e5df": {
+        "_id": "676836168d79e17a9924e5df",
+        "parentId": null,
+        "text": "Dumbledore's long beard tickled Hagrid's knees as they embraced. The tip of Dumbledore's pointy hat only reached the half-giant's moleskin-clad nipples. Dumbledore's face was pressed against Hagrid's large belly button. Therefore his voice was muffled when he spoke:",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-23T15:57:55.215000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "67642ccb384037caaba8402a",
+            "username": "Marie",
+            "profilePictureUrl": "https://picsum.photos/seed/3b840a00-3277-4e4c-a5f8-d8f50310c2cb/200"
+        },
+        "createdAt": "2024-12-22T15:53:58.137000",
+        "updatedAt": "2024-12-23T15:57:55.216000",
+        "__v": 0
+    },
+    "6768419813ecaa8c0f65e84d": {
+        "_id": "6768419813ecaa8c0f65e84d",
+        "parentId": "6766f50c5e0bf411dac70fe0",
+        "text": "he could still win this game of tennis",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-23T15:57:18.271000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T23:13:17.139000"
+            }
+        ],
+        "storyChain": " Despite all his eccentricities, nothing could have prepared Maky for what his wife showed him one fateful Christmas Eve . Once they were alone in the room, she started reaching deep into The epicentre of his anus. At that very moment he though about...",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-22T16:43:04.430000",
+        "updatedAt": "2024-12-30T23:13:17.139000",
+        "__v": 0
+    },
+    "6769885a3ac38c1331e7294c": {
+        "_id": "6769885a3ac38c1331e7294c",
+        "parentId": "6768419813ecaa8c0f65e84d",
+        "text": "he was playing against Silviu. But Silviu also had a",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-23T15:57:39.651000"
+            }
+        ],
+        "storyChain": " Despite all his eccentricities, nothing could have prepared Maky for what his wife showed him one fateful Christmas Eve . Once they were alone in the room, she started reaching deep into The epicentre of his anus. At that very moment he though about... he could still win this game of tennis",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-23T15:57:14.774000",
+        "updatedAt": "2024-12-30T23:13:22.601000",
+        "__v": 0
+    },
+    "676988c33372a509e84690f2": {
+        "_id": "676988c33372a509e84690f2",
+        "parentId": "676836168d79e17a9924e5df",
+        "text": "\"It's too thick, I don't think I can take it all\". Then he looked down at",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-23T15:59:01.351000"
+            }
+        ],
+        "storyChain": " Dumbledore's long beard tickled Hagrid's knees as they embraced. The tip of Dumbledore's pointy hat only reached the half-giant's moleskin-clad nipples. Dumbledore's face was pressed against Hagrid's large belly button. Therefore his voice was muffled when he spoke:",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-23T15:58:59.193000",
+        "updatedAt": "2024-12-23T15:59:01.351000",
+        "__v": 0
+    },
+    "676bfd3054c9814369150b46": {
+        "_id": "676bfd3054c9814369150b46",
+        "parentId": "6769885a3ac38c1331e7294c",
+        "text": "prickly bum hole which made things a bit awkward at the dinner table",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-25T21:23:47.282000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T22:36:11.844000"
+            }
+        ],
+        "storyChain": " Despite all his eccentricities, nothing could have prepared Maky for what his wife showed him one fateful Christmas Eve . Once they were alone in the room, she started reaching deep into The epicentre of his anus. At that very moment he though about... he could still win this game of tennis he was playing against Silviu. But Silviu also had a",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-25T12:40:16.524000",
+        "updatedAt": "2024-12-30T22:36:11.844000",
+        "__v": 0
+    },
+    "676bfd6254c9814369150b8f": {
+        "_id": "676bfd6254c9814369150b8f",
+        "parentId": null,
+        "text": "Christmas was always a day of giving, but this year Marie was ready to take it all",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-25T23:23:32.605000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T22:36:01.120000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "676598195db3ca5cc87ed294",
+            "username": "AndyPayne55",
+            "profilePictureUrl": "https://picsum.photos/seed/86d9d5fe-5004-4ac8-ac81-a88dd7be0d0a/200"
+        },
+        "createdAt": "2024-12-25T12:41:06.340000",
+        "updatedAt": "2024-12-30T22:36:01.120000",
+        "__v": 0
+    },
+    "676c7848c5044ad7031b68d5": {
+        "_id": "676c7848c5044ad7031b68d5",
+        "parentId": "676bfd3054c9814369150b46",
+        "text": ". But somehow he didn't mind the silence. He started telling loudly about his",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-25T21:25:31.626000"
+            }
+        ],
+        "storyChain": " Despite all his eccentricities, nothing could have prepared Maky for what his wife showed him one fateful Christmas Eve . Once they were alone in the room, she started reaching deep into The epicentre of his anus. At that very moment he though about... he could still win this game of tennis he was playing against Silviu. But Silviu also had a prickly bum hole which made things a bit awkward at the dinner table",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-25T21:25:28.473000",
+        "updatedAt": "2024-12-25T21:25:31.626000",
+        "__v": 0
+    },
+    "676c78cf895b1d339e1dd092": {
+        "_id": "676c78cf895b1d339e1dd092",
+        "parentId": "676bfd6254c9814369150b8f",
+        "text": "for herself, Grinch style. This made things awkward, Maky bought a mansturbator ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-25T23:23:34.856000"
+            },
+            {
+                "userId": "67642ccb384037caaba8402a",
+                "username": "Marie",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T22:35:42.512000"
+            },
+            {
+                "userId": "675eefa7147170a37bd63711",
+                "username": "Maky",
+                "voteType": "upvote",
+                "updateTime": "2024-12-31T12:26:55.188000"
+            }
+        ],
+        "storyChain": " Christmas was always a day of giving, but this year Marie was ready to take it all",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-25T21:27:43.085000",
+        "updatedAt": "2024-12-31T12:26:55.222000",
+        "__v": 0
+    },
+    "67729ea4f4a5c1b8defad8cf": {
+        "_id": "67729ea4f4a5c1b8defad8cf",
+        "parentId": null,
+        "text": "Hear me out... Christmas cracker bum plugs. ",
+        "votes": [],
+        "storyChain": "",
+        "user": {
+            "userId": "67652d293ea79430543ed29a",
+            "username": "Chewchew",
+            "profilePictureUrl": "https://picsum.photos/seed/7fe77c7c-63f4-445e-af5b-429bacdf5c0e/200"
+        },
+        "createdAt": "2024-12-30T13:22:44.958000",
+        "updatedAt": "2024-12-30T13:22:44.958000",
+        "__v": 0
+    },
+    "67729f30ce383533869ea490": {
+        "_id": "67729f30ce383533869ea490",
+        "parentId": null,
+        "text": "The missus screams \"deeper, deeper! Oh my god! This is amazing!\"\r\n\r\n...\r\n\r\nShes really enjoying Minecraft.",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T22:00:52.802000"
+            },
+            {
+                "userId": "675eefa7147170a37bd63711",
+                "username": "Maky",
+                "voteType": "upvote",
+                "updateTime": "2024-12-31T12:27:04.045000"
+            },
+            {
+                "userId": "6773ef654f702131aa4f8cf2",
+                "username": "Dempsy",
+                "voteType": "upvote",
+                "updateTime": "2024-12-31T13:21:08.070000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "67652d293ea79430543ed29a",
+            "username": "Chewchew",
+            "profilePictureUrl": "https://picsum.photos/seed/7fe77c7c-63f4-445e-af5b-429bacdf5c0e/200"
+        },
+        "createdAt": "2024-12-30T13:25:04.736000",
+        "updatedAt": "2024-12-31T13:21:08.071000",
+        "__v": 0
+    },
+    "67729f5ace383533869ea527": {
+        "_id": "67729f5ace383533869ea527",
+        "parentId": null,
+        "text": "Bet you cant guess where Santa sticks all those carrots ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T22:01:09.213000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "67652d293ea79430543ed29a",
+            "username": "Chewchew",
+            "profilePictureUrl": "https://picsum.photos/seed/7fe77c7c-63f4-445e-af5b-429bacdf5c0e/200"
+        },
+        "createdAt": "2024-12-30T13:25:46.435000",
+        "updatedAt": "2024-12-30T22:01:09.230000",
+        "__v": 0
+    },
+    "67729f9dce383533869ea574": {
+        "_id": "67729f9dce383533869ea574",
+        "parentId": null,
+        "text": "As he misunderstood yet another simple task the doctors wondered if they would ever be able to help out",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T22:03:17.315000"
+            }
+        ],
+        "storyChain": "",
+        "user": {
+            "userId": "67652d293ea79430543ed29a",
+            "username": "Chewchew",
+            "profilePictureUrl": "https://picsum.photos/seed/7fe77c7c-63f4-445e-af5b-429bacdf5c0e/200"
+        },
+        "createdAt": "2024-12-30T13:26:53.973000",
+        "updatedAt": "2024-12-30T22:03:17.315000",
+        "__v": 0
+    },
+    "6773183cab6c3172ef8c7d1b": {
+        "_id": "6773183cab6c3172ef8c7d1b",
+        "parentId": "67729f5ace383533869ea527",
+        "text": "He has a secret carrot whole in Silviu's",
+        "votes": [],
+        "storyChain": " Bet you cant guess where Santa sticks all those carrots ",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-30T22:01:32.568000",
+        "updatedAt": "2024-12-30T22:01:32.568000",
+        "__v": 0
+    },
+    "677318a479039992e00a3878": {
+        "_id": "677318a479039992e00a3878",
+        "parentId": "67729f9dce383533869ea574",
+        "text": "this poor man with a watch stuck in his little ",
+        "votes": [
+            {
+                "userId": "675c57fe37a039dd68d0280d",
+                "username": "Silviu",
+                "voteType": "upvote",
+                "updateTime": "2024-12-30T22:03:28.204000"
+            },
+            {
+                "userId": "6773ef654f702131aa4f8cf2",
+                "username": "Dempsy",
+                "voteType": "upvote",
+                "updateTime": "2024-12-31T13:21:01.346000"
+            }
+        ],
+        "storyChain": " As he misunderstood yet another simple task the doctors wondered if they would ever be able to help out",
+        "user": {
+            "userId": "675c57fe37a039dd68d0280d",
+            "username": "Silviu",
+            "profilePictureUrl": "https://picsum.photos/seed/6a291ff3-1bd4-4a7d-b6fc-763d89c16303/200"
+        },
+        "createdAt": "2024-12-30T22:03:16.633000",
+        "updatedAt": "2024-12-31T13:21:01.347000",
+        "__v": 0
+    }
+}
