@@ -141,7 +141,11 @@ if __name__ == "__main__":
     sorted_stories = sorted(story_scores.items(), key=lambda x: x[1], reverse=True)
 
     # Print formatted story text with scores
+    ranked_stories = []
     for story_id, total_score in sorted_stories:
         story = entries_map[story_id]
         full_text = f"{story['storyChain']} {story['text']}"
-        print(f'{total_score:.2f}: "{full_text}"')
+        ranked_stories.append(f'{total_score:.2f}: "{full_text}"')
+
+    with open("data/ranked_stories.json", "w") as file:
+        json.dump(ranked_stories, file, indent=4)
